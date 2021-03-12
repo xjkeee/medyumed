@@ -50,7 +50,7 @@
     "react": "^16.5.1",
     "react-cookie": "^3.0.4",
     "react-datepicker": "^1.6.0",
-    "react-dev-utils": "^5.0.2",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.5.1",
     "react-highcharts": "^16.0.2",
     "react-router": "^4.3.1",
